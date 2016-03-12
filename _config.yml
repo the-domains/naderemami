@@ -2,6 +2,7 @@ name: "Nader's Workshop"
 favicon: null
 layout_spectrum: 0.75031
 typography_spectrum: 0.73625
+title: "Nader's virtual workshop"
 cta:
   domain: null
   bucket: null
